@@ -1,0 +1,11 @@
+*.pyc
+*.orig
+*~
+.spyproject/
+htmlcov/
+__pycache__
+info/
+docs/build
+#_static
+#_templates
+#docs/
