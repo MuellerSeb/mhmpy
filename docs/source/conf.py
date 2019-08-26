@@ -176,7 +176,9 @@ htmlhelp_basename = "mhmpydoc"
 # -- Options for LaTeX output ---------------------------------------------
 # latex_engine = 'lualatex'
 # logo to big
-latex_logo = "pics/OGS_150.png"
+
+## add a LOGO
+# latex_logo = "pics/logo.png"
 
 # latex_show_urls = 'footnote'
 # http://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-latex-output
@@ -226,7 +228,7 @@ texinfo_documents = [
         "mhmpy Documentation",
         author,
         "mhmpy",
-        "Python API for OGS5.",
+        "Python API for MHM.",
         "Miscellaneous",
     )
 ]

@@ -8,7 +8,7 @@ import unittest
 from mhmpy import __version__
 
 
-class TestOGS(unittest.TestCase):
+class Test(unittest.TestCase):
     def setUp(self):
         self.version = __version__
 
